@@ -23,7 +23,7 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.codecs.simpletext.*;
+//import org.apache.lucene.codecs.simpletext.*;
 
 import java.io.File;
 import java.io.IOException;
