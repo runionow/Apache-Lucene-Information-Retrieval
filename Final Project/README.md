@@ -3,8 +3,7 @@
 ## 1. MongoDB Setup.
 
 <ol type ="a">
-a. Download MongoDB Community Server from <a href = "https://www.mongodb.com/download-center#community" >here</a>
-
+a. Download MongoDB Community Server from <a href = "https://www.mongodb.com/download-center#community" >here</a>.
 
 b. Install MongoDB on your local machine.
 
@@ -78,7 +77,7 @@ e. Under collections you need to find all your **Six** collections.
 
 </ol>
 
-## 4. Some Queries that we will using in this Project.
+## 4. Jump Start : Sample Queries and Code.
 
 a. To retrieve business Id of all the restaurants that are serving Indian Food.Try to run it in **Robo 3T**.
 
