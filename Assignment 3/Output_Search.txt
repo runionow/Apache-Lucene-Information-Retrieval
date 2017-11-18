@@ -1,0 +1,43 @@
+===========================================================================
+Task 1 : Top 10 Authors
+===========================================================================
+Author ID :5284 	Score :0.002048402122633821
+Author ID :875 		Score :0.0019909498358929682
+Author ID :654 		Score :0.0017674856601102077
+Author ID :595 		Score :0.0016927104744134834
+Author ID :16297 	Score :0.0015913626250315769
+Author ID :764 		Score :0.0015095977786421153
+Author ID :23770 	Score :0.0013909616749421786
+Author ID :34659 	Score :0.0013797659990105967
+Author ID :28421 	Score :0.001369749701161709
+Author ID :31637 	Score :0.001343882353989351
+
+==============================================================================
+Task 2 : Keyword : Data Mining | alpha : 0.85
+==============================================================================
+Author ID :2340  Author Name :Philip S. Yu         Score :0.07200741558427681
+Author ID :16297 Author Name :Christos  Faloutsos  Score :0.041801060621152464
+Author ID :4836  Author Name :Johannes  Gehrke     Score :0.03630838504168429
+Author ID :3695  Author Name :Wei-Ying  Ma         Score :0.03463040573579117
+Author ID :16317 Author Name :Heikki  Mannila      Score :0.03407793411852958
+Author ID :23255 Author Name :Rakesh  Agrawal      Score :0.029724429975353166
+Author ID :69331 Author Name :Dimitrios  Gunopulos Score :0.02769896715700777
+Author ID :31637 Author Name :Raghu  Ramakrishnan  Score :0.0263996375646698
+Author ID :12141 Author Name :Eamonn  Keogh        Score :0.026087438757281523
+Author ID :2430  Author Name :Hans-Peter  Kriegel  Score :0.02557622892294735
+==============================================================================
+
+==============================================================================
+Task 2 : Keyword : Information Retrieval | alpha : 0.85
+==============================================================================
+Author ID :3695  Author Name :Wei-Ying  Ma          Score :0.0826830063535542
+Author ID :16297 Author Name :Christos  Faloutsos   Score :0.02628291790882336
+Author ID :31210 Author Name :Bill N. Schilit       Score :0.025677317812491968
+Author ID :4151  Author Name :Divesh  Srivastava    Score :0.02550789598284821
+Author ID :34351 Author Name :Rajeev  Rastogi       Score :0.021037009435622093
+Author ID :2430  Author Name :Hans-Peter  Kriegel   Score :0.020668556420464453
+Author ID :2482  Author Name :Chengxiang  Zhai      Score :0.01729992590126407
+Author ID :65415 Author Name :Bruce  Croft          Score :0.01703053976224069
+Author ID :69331 Author Name :Dimitrios  Gunopulos  Score :0.01696405131503391
+Author ID :4150  Author Name :Nick  Koudas          Score :0.016874426854382247
+===============================================================================
